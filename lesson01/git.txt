@@ -6,3 +6,9 @@ TH1) May tinh chua source code & github (Rong)
 - git push origin master
 
 TH2) Local & Github de co code
+- git add -A
+- git commit -m 'update code'
+- git push origin master
+
+TH3) Lay code ve
+- git pull origin master
