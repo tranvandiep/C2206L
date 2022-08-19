@@ -1,0 +1,8 @@
+TH1) May tinh chua source code & github (Rong)
+- git init -> Thiết lập môi trường dự án git
+- git add -A
+- git commit -m 'init project'
+- git remote add origin https://github.com/tranvandiep/C2206L.git
+- git push origin master
+
+TH2) Local & Github de co code
